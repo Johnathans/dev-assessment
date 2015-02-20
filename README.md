@@ -11,7 +11,7 @@ This repo contains my answers for the Dev Mountain Pre-Assessment
 * [Last] -  http://jsfiddle.net/rLes9kdb/196/ - MY-SOLUTION-URL
 * [Loop] - http://jsfiddle.net/YM7th/426/ - MY-SOLUTION-URL
 * [oddsAndEvens] - http://jsfiddle.net/4zfcz/399/ - MY-SOLUTION-URL
-* [me] - http://jsfiddle.net/5Ua3r/344/- MY-SOLUTION-URL
+* [me] - http://jsfiddle.net/5Ua3r/344/ - MY-SOLUTION-URL
 * [favoriteThings] - http://jsfiddle.net/zCcnT/400/ - MY-SOLUTION-URL
 * [firstLoop] - http://jsfiddle.net/Lgf3G/414/ - MY-SOLUTION-URL
 * [userObj] - http://jsfiddle.net/VkvMV/400/ - MY-SOLUTION-URL
